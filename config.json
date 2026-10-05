@@ -1,0 +1,15 @@
+{
+  "kind": "cd",
+  "title_de": "CD-Sammlung zu verkaufen",
+  "title_en": "CD collection for sale",
+  "intro_de": "Alle CDs in gutem, gespieltem Zustand.",
+  "intro_en": "All CDs in good, used condition.",
+  "default_language": "de",
+  "default_region": "",
+  "photos_dir": "photos",
+  "output_dir": "docs",
+  "languages": [
+    "de"
+  ],
+  "show_language": false
+}

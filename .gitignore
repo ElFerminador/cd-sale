@@ -1,0 +1,11 @@
+.venv/
+.env
+.cache.json
+photos/
+__pycache__/
+.DS_Store
+duplicates.txt
+renamed.log
+ricardo/
+formats.json
+photos_excluded/
