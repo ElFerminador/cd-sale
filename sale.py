@@ -448,8 +448,8 @@ def write_rows(rows):
         w.writerows(rows)
 
 
-MISSING = {"front": ("Vorderseite fehlt", "Front cover photo missing"),
-           "back": ("Rückseite fehlt", "Back cover photo missing")}
+MISSING = {"front": ("Foto der Vorderseite fehlt", "Front cover photo missing"),
+           "back": ("Foto der Rückseite fehlt", "Back cover photo missing")}
 
 
 def pair_photos(photos):

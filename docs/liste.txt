@@ -7,7 +7,6 @@
 097 · The Beach Boys – Summer in Paradise · 1992
 022 · Bee Gees – The Very Best of the Bee Gees · 1990
 040 · Billy Joel – River of Dreams · 1993
-027 · Bloch, Bruch; Ofra Harnoy, London Philharmonic Orchestra, Sir Charles Mackerras – Bloch: Schelomo / Bruch: Kol Nidrei · 1991
 127 · The Blues Brothers – The Blues Brothers (Original Soundtrack Recording)
 109 · Bon Jovi – Bounce · 2002
 126 · Bon Jovi – Keep the Faith · 1992
@@ -15,8 +14,6 @@
 137 · Bruce Springsteen – In Concert MTV Plugged
 139 · Bruce Springsteen – Lucky Town
 066 · Buddy Guy – As Good As It Gets · 1996 · 71 min
-132 · Celine Dion – Greatest Hits
-114 · Celine Dion – These Are Special Times
 041 · Cher – Believe · 1998
 142 · Chicago – The Heart of Chicago · 1989
 071 · Chris Isaak – Heart Shaped World · 1991 · 45 min
@@ -24,25 +21,27 @@
 050 · The Corrs – In Blue
 059 · Céline Dion – Au cœur du stade · 1999
 078 · Céline Dion – For You · 1996
+132 · Céline Dion – Greatest Hits
+114 · Céline Dion – These Are Special Times
 136 · Céline Dion – Tout en amour · 2000
 108 · Def Leppard – Adrenalize · 1992
-024 · Dennis McCarthy – Theme from Star Trek: Deep Space Nine · Rückseite fehlt
-043 · Dido – White Flag · Rückseite fehlt
+024 · Dennis McCarthy – Theme from Star Trek: Deep Space Nine · Foto der Rückseite fehlt
+043 · Dido – White Flag · Foto der Rückseite fehlt
 025 · Dire Straits – Alchemy – Dire Straits Live, Part One · 1984
 026 · Dire Straits – Alchemy: Dire Straits Live, Part Two · 1984
 034 · Dire Straits – On Every Street
 052 · Dire Straits – On the Night · 1993
+072 · Dire Straits – Sultans of Swing: The Very Best of Dire Straits · 1998 · 78 min
 140 · Die Doofen – Lieder, die die Welt nicht braucht · 1995
 053 · The Eagles – The Very Best Of · Hülle fehlt
 115 · Elton John – Duets · 1993
 102 · Elton John – The Very Best of Elton John · 1990
-145 · Emilia – Big Big World · Rückseite fehlt
+145 · Emilia – Big Big World · Foto der Rückseite fehlt
 092 · Ennio Morricone – Once Upon a Time in the West · 1988
 138 · Eros Ramazzotti – Stilelibero · 2000
-039 · Franz Liszt, Johannes Brahms; Shura Cherkassky, Berlin Philharmonic Orchestra, Herbert von Karajan – Liszt: Ungarische Fantasie / Ungarische Rhapsodien Nr. 2 & 5 / Brahms: 4 Ungarische Tänze · 1989
 106 · Gary Moore – After Hours · 1992
 065 · Gary Moore – Ballads & Blues 1982-1994 · 1994
-122 · Gary Moore – Blues Alive · Rückseite fehlt
+122 · Gary Moore – Blues Alive · Foto der Rückseite fehlt
 074 · Genesis – Turn It On Again: Best of ’81–’83 · 1991
 077 · Genesis – Turn It On Again: The Hits · 1999
 104 · Genesis – We Can’t Dance · 1991
@@ -58,8 +57,8 @@
 111 · Ingo Appelt – Der Abräumer · 1997 · 77 min
 128 · Ingo Appelt – ...oder was Sie nie über Sex wissen wollten. · 1998
 100 · Jay Chattaway, Jerry Goldsmith – Star Trek: Voyager - Caretaker (Music From The Original Television Soundtrack) · 1995 · 46 min
-103 · Jean Michel Jarre – Images: The Best of Jean Michel Jarre · 1991
-117 · Jean Michel Jarre – Metamorphoses · 2000
+103 · Jean-Michel Jarre – Images: The Best of Jean Michel Jarre · 1991
+117 · Jean-Michel Jarre – Metamorphoses · 2000
 002 · Jewel – Pieces of You · 1997
 131 · Joe Cocker – The Best of Joe Cocker · 1992
 084 · Joe Cocker – Have a Little Faith · 1994
@@ -79,13 +78,14 @@
 011 · Mark Knopfler – The Ragpicker’s Dream · 2002
 080 · Mash – Nidvobärn · 2000
 042 · Matthias Reim – Reim · 1990 · 36 min
-144 · MG Dietwil – Jahreskonzert 1999 · 1999 · Hülle fehlt
 015 · Michael Mittermeier – Back to Life · 2000 · Hülle fehlt
 067 · Mike Oldfield – Earth Moving · 1989
 058 · Modern Talking – 2000 – Year of the Dragon · 2000
 133 · Modern Talking – Back for Good · 1998
 121 · Musikgesellschaft Dietwil – Jahreskonzert 1999 · 1999
-098 · Musikgesellschaft Dietwil (AG), Direktion: Peter Stadelmann – Musigfäscht 2000 · 2000
+144 · Musikgesellschaft Dietwil – Jahreskonzert 1999 · 1999 · Hülle fehlt
+098 · Musikgesellschaft Dietwil – Musigfäscht 2000 · 2000
+027 · Ofra Harnoy – Bloch: Schelomo / Bruch: Kol Nidrei · 1991
 054 · Pavarotti, Carreras, Domingo – Die drei grössten Tenöre der Welt · 69 min
 119 · Pet Shop Boys – Nightlife · 1999
 007 · Pet Shop Boys – Very · 1993
@@ -106,9 +106,9 @@
 044 · Pur – Was ist passiert? · 2003
 009 · Queen – Greatest Hits · 1992
 088 · Queen – Greatest Hits II · 1991
+063 · Queen – Greatest Hits III · 1999
 020 · Queen – Innuendo · 1991
 013 · Queen – Made in Heaven · 1995
-063 · Queen+ – Greatest Hits III · 1999
 073 · Reamonn – tuesday
 069 · Rednex – Sex & Violins · 1995
 116 · Robbie Williams – Live Summer 2003 · 2003
@@ -116,28 +116,28 @@
 143 · Robbie Williams – Swing When You're Winning · 2001 · Hülle fehlt
 060 · Roxette – Room Service · 2001
 023 · Scorpions – Crazy World · 1990
+039 · Shura Cherkassky – Liszt: Ungarische Fantasie / Ungarische Rhapsodien Nr. 2 & 5 / Brahms: 4 Ungarische Tänze · 1989
 105 · Spiel Inf Rgt 14 (Schweizer Militärmusik) – Live 1998 · 1998 · 65 min
 010 · Spiel Inf RS Bern (Christoph Walter) – Miteinander · 1993 · 45 min
-018 · Stadtharmonie Schaffhausen – Konzert November 2004 (Edvard Grieg) · 2004 · 67 min · Vorderseite fehlt
+018 · Stadtharmonie Schaffhausen – Konzert November 2004 (Edvard Grieg) · 2004 · 67 min · Foto der Vorderseite fehlt
 118 · Stefan Raab – Das Album
 120 · Sting – The Soul Cages · 1991
-072 · Sultans of Swing – The Very Best of Dire Straits · 1998 · 78 min
 001 · Take That – Back for Good (CD 1 + CD 2) · 1995 · Das zweite Bild zeigt die CD 2 statt der Rückseite
-003 · Take That – Everything Changes (Single) · Rückseite fehlt
+003 · Take That – Everything Changes (Single) · Foto der Rückseite fehlt
 033 · Texas – The Hush · 1999
 093 · Die Toten Hosen – Auf dem Kreuzzug ins Glück · 1990
 083 · Die Toten Hosen – Learning English: Lesson 1 · 1991
 091 · Die Toten Hosen – Opium fürs Volk · 1996
 101 · Vangelis – 1492 · 1992
-087 · Various Artists – Voices From Heaven · 1998
-006 · Various Artists – The X-Files: The Album · 1998
 048 · Vaya Con Dios – The Best Of · 1996
 057 · Verschiedene Interpreten – 6. Swiss Entertainment Contest · 56 min
 134 · Verschiedene Interpreten – Blues Brothers 2000 · 1997
 046 · Verschiedene Interpreten – Blues Guitar Greats · 1996
+087 · Verschiedene Interpreten – Voices From Heaven · 1998
+006 · Verschiedene Interpreten – The X-Files: The Album · 1998
 107 · Wet Wet Wet – End of Part One: Their Greatest Hits · 1994
 123 · Wolfgang Amadeus Mozart – Sacred Music (The Complete Mozart Edition) · 1995 · 77 min
-079 · Wonderwall – Just More · Rückseite fehlt
+079 · Wonderwall – Just More · Foto der Rückseite fehlt
 064 · Wynton Marsalis – Majesty of the Blues · 1989
 031 · Wynton Marsalis – Marsalis Standard Time, Volume 1 · 1987
 141 · Die Ärzte – Die Bestie in Menschengestalt · 1993
